@@ -22,7 +22,7 @@
         {
           "foreground": "#FF413A",
           "style": "diamond",
-          "template": "<#FF413A> > </>",
+          "template": "<#0BD18A> > </>",
           "type": "text"
         }
       ],
