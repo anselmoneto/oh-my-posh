@@ -10,7 +10,7 @@
             "style": "folder"
           },
           "style": "diamond",
-          "template": "<#9494f7> _> </><b>{{ .Path }}</b>",
+          "template": "<#9494f7> \ud83d\udcc1 </><b>{{ .Path }}</b>",
           "type": "path"
         },
         {
@@ -22,7 +22,7 @@
         {
           "foreground": "#FF413A",
           "style": "diamond",
-          "template": "<#FF413A> \ud83d\udcc1</>",
+          "template": "<#FF413A> > </>",
           "type": "text"
         }
       ],
