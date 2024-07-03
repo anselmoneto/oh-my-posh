@@ -22,7 +22,7 @@
         {
           "foreground": "#FF413A",
           "style": "diamond",
-          "template": "<#FF413A> \u25C9</>",
+          "template": "<#FF413A> \ud83d\udcc1</>",
           "type": "text"
         }
       ],
