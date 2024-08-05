@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#8625D2",
+          "foreground": "#ffffff",
           "properties": {
             "style": "folder"
           },
